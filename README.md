@@ -41,7 +41,7 @@ I'm a **Full Stack Developer** specializing in **React.js** and **Node.js** (MER
 |----------|-------|-------------|
 | [Personal Portfolio](https://github.com/your-link) | MERN | My professional portfolio showcasing my skills and projects. |
 | [Daily Artist Journal](https://github.com/JavierMagana9/artistBook/tree/dev) | PERN | An app combining visual art and personal reflections. |
-| [Creative To-Do App]((https://github.com/JavierMagana9/todoDecember/tree/dev)) | React, Redux | A fresh and artistic approach to the classic to-do list. |
+| [Creative To-Do App](https://github.com/JavierMagana9/todoDecember/tree/dev) | React, Redux | A fresh and artistic approach to the classic to-do list. |
 
 ---
 
@@ -103,8 +103,8 @@ Soy **Desarrollador Full Stack** especializado en **React.js** y **Node.js** (st
 
 ### 🎯 **Mi filosofía**
 
-> _"La cueva a la que temes entrar contiene el tesoro que buscas." — **Joseph Campbell**_  
-> _"Lo importante no es ser mejor que alguien más, sino ser mejor de lo que fuiste ayer." — **Jigoro Kano**_
+> _"La cueva en la que temes entrar contiene el tesoro que buscas." — **Joseph Campbell**_  
+> _"Lo importante no es ser mejor que otro, sino ser mejor de lo que fuiste ayer." — **Jigoro Kano**_
 
 ---
 
