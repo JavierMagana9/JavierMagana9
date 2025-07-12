@@ -3,7 +3,7 @@
   <a href="#español">🇪🇸 Español</a>
 </p>
 
-
+<a name="english"></a>
 # Javier Magaña
 
 ### 🇬🇧 **ENGLISH**
@@ -40,8 +40,8 @@ I'm a **Full Stack Developer** specializing in **React.js** and **Node.js** (MER
 | Project | Stack | Description |
 |----------|-------|-------------|
 | [Personal Portfolio](https://github.com/your-link) | MERN | My professional portfolio showcasing my skills and projects. |
-| [Daily Artist Journal](https://github.com/your-link) | PERN | An app combining visual art and personal reflections. |
-| [Creative To-Do App](https://github.com/your-link) | React, Redux | A fresh and artistic approach to the classic to-do list. |
+| [Daily Artist Journal](https://github.com/JavierMagana9/artistBook/tree/dev) | PERN | An app combining visual art and personal reflections. |
+| [Creative To-Do App]((https://github.com/JavierMagana9/todoDecember/tree/dev)) | React, Redux | A fresh and artistic approach to the classic to-do list. |
 
 ---
 
@@ -71,14 +71,14 @@ I'm a **Full Stack Developer** specializing in **React.js** and **Node.js** (MER
 
 ## 📊 **GitHub Stats**
 
-![Javi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Javi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavierMagana9&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierMagana9&layout=compact&theme=tokyonight)
 
 ---
 
+---
+<a name="español"></a>
 ### 🇪🇸 **ESPAÑOL**
 
 **Desarrollador Full Stack MERN/PERN** | **Especialista Frontend**
@@ -113,15 +113,15 @@ Soy **Desarrollador Full Stack** especializado en **React.js** y **Node.js** (st
 | Proyecto | Stack | Descripción |
 |----------|-------|-------------|
 | [Portfolio Personal](https://github.com/tu-link) | MERN | Mi portfolio profesional con mis habilidades y proyectos destacados. |
-| [Daily Artist Journal](https://github.com/tu-link) | PERN | Una aplicación que combina arte visual y reflexiones personales. |
-| [Creative To-Do App](https://github.com/tu-link) | React, Redux | Una versión creativa y artística de la clásica lista de tareas. |
+| [Daily Artist Journal]((https://github.com/JavierMagana9/artistBook/tree/dev)) | PERN | Una aplicación que combina arte visual y reflexiones personales. |
+| [Creative To-Do App](https://github.com/JavierMagana9/todoDecember/tree/dev) | React, Redux | Una versión creativa y artística de la clásica lista de tareas. |
 
 ---
 
 ### 📫 **Contacto y redes**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/javier-magana-tello)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](javier.magana9@gmail.com)
 
 ---
 
@@ -144,6 +144,6 @@ Soy **Desarrollador Full Stack** especializado en **React.js** y **Node.js** (st
 
 ## 📊 **Estadísticas GitHub**
 
-![Estadísticas de Javi](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Estadísticas de Javi](https://github-readme-stats.vercel.app/api?username=JavierMagana9&show_icons=true&theme=tokyonight)
 
-![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierMagana9&layout=compact&theme=tokyonight)
