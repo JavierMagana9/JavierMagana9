@@ -40,7 +40,7 @@ I'm a **Full Stack Developer** specializing in **React.js** and **Node.js** (MER
 | Project | Stack | Description |
 |----------|-------|-------------|
 | [Vending Machine Dashboard](https://github.com/JavierMagana9/desafio-tripulacion_fork) | React, SCSS | A frontend for a real client Umbrella Station. A dashboard to visualize content, sales and much more. |
-| [Personal Portfolio](https://github.com/your-link) | React | My professional portfolio showcasing my skills and projects. |
+| [Personal Portfolio](https://github.com/JavierMagana9/portfolio/tree/dev) | React | My professional portfolio showcasing my skills and projects. |
 | [Daily Artist Journal](https://github.com/JavierMagana9/artistBook/tree/dev) | PERN | An app combining visual art and personal reflections. |
 | [Creative To-Do App](https://github.com/JavierMagana9/todoDecember/tree/dev) | React, Redux | A fresh and artistic approach to the classic to-do list. |
 
