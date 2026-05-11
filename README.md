@@ -107,13 +107,20 @@ Long term, I want to grow toward **ServiceNow development**, especially in areas
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **GitHub Activity**
 
-![Javi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavierMagana9&show_icons=true&theme=tokyonight)
+I use GitHub to document my learning path, full stack projects and upcoming ServiceNow portfolio work.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierMagana9&layout=compact&theme=tokyonight)
+You can explore my repositories here:
+
+[![GitHub](https://img.shields.io/badge/GitHub-JavierMagana9-181717?style=flat&logo=github&logoColor=white)](https://github.com/JavierMagana9?tab=repositories)
 
 ---
+
+<p align="right">
+  <a href="#english">🇬🇧 English</a> | 
+  <a href="#español">🇪🇸 Español</a>
+</p>
 
 <a name="español"></a>
 
@@ -219,8 +226,10 @@ A medio/largo plazo quiero crecer hacia **ServiceNow Development**, especialment
 
 ---
 
-## 📊 **Estadísticas GitHub**
+## 📊 **Actividad en GitHub**
 
-![Estadísticas de Javi](https://github-readme-stats.vercel.app/api?username=JavierMagana9&show_icons=true&theme=tokyonight)
+Uso GitHub para documentar mi aprendizaje, proyectos full stack y próximos proyectos de portfolio ServiceNow.
 
-![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierMagana9&layout=compact&theme=tokyonight)
+Puedes explorar mis repositorios aquí:
+
+[![GitHub](https://img.shields.io/badge/GitHub-JavierMagana9-181717?style=flat&logo=github&logoColor=white)](https://github.com/JavierMagana9?tab=repositories)
